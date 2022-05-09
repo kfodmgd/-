@@ -1,0 +1,344 @@
+@charset "UTF-8";
+body {
+  background-image: url("../pics/backDop.png"); }
+
+.sdf {
+  flex-basis: 100%; }
+
+body {
+  padding: 0;
+  margin: 0; }
+
+.header {
+  height: 153px;
+  width: 100%;
+  position: absolute;
+  background-image: linear-gradient(to bottom, rgba(55, 184, 44, 0.4), transparent);
+  left: 0px;
+  top: 0px; }
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; }
+
+ul.topnav li {
+  float: right;
+  padding-left: 70px; }
+
+ul.topnav li a {
+  display: block;
+  color: #444444;
+  text-align: center;
+  padding-top: 14px;
+  margin-right: -20px;
+  text-decoration: none; }
+
+ul.topnav li a:hover {
+  text-decoration: underline; }
+
+ul.topnav li.last a {
+  display: block;
+  color: #444444;
+  text-align: center;
+  padding-top: 14px;
+  padding-right: 60px;
+  text-decoration: none; }
+
+ul.topnav li.left {
+  float: left; }
+
+@media screen and (max-width: 800px) {
+  ul.topnav li.left,
+  ul.topnav li.last,
+  ul.topnav li {
+    float: none; }
+
+  ul.topnav li.left {
+    float: none; }
+
+  ul.topnav li.last a {
+    padding-left: 54px; } }
+.tea {
+  margin-top: 100px;
+  margin-left: 50px;
+  margin-bottom: -150px;
+  font-size: 25px;
+  font-family: Monotype Corsiva; }
+
+@media screen and (max-width: 800px) {
+  .tea {
+    margin-top: 225px;
+    text-decoration: overline 1px; } }
+.container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+  flex-wrap: wrap; }
+
+.box {
+  flex-grow: 1;
+  text-align: center;
+  width: 155px; }
+
+.top {
+  margin-top: 150px; }
+
+.third1 {
+  width: 400px;
+  margin-top: 20px; }
+
+.scl:hover {
+  transform: scale(1.1); }
+
+.first1 {
+  background-image: url("../pics/чёрная рябина арония.jpg");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+.first2 {
+  background-image: url("../pics/каркадэ королевский.jpg");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+.first3 {
+  background-image: url("../pics/каркадэ рубленый.PNG");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+.first4 {
+  background-image: url("../pics/мята мелкий лист.jpg");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+.first5 {
+  background-image: url("../pics/шиповник измельчённый.jpg");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+.first6 {
+  background-image: url("../pics/рябина красноплодая.jpg");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+.first7 {
+  background-image: url("../pics/имбирь дроблёный.jpg");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+.first8 {
+  background-image: url("../pics/жасмин цветы.jpg");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+.first9 {
+  background-image: url("../pics/лаванда.jpg");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+.first10 {
+  background-image: url("../pics/лист гинкго.jpg");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+.first11 {
+  background-image: url("../pics/хризантема цветы цзюй хуа.jpg");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+.first12 {
+  background-image: url("../pics/сафлора лепетски.jpg");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+.first13 {
+  background-image: url("../pics/календула лепестки.jpg");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+.first14 {
+  background-image: url("../pics/липа резаный лист.jpg");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+.first15 {
+  background-image: url("../pics/клевер.jpg");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+.first16 {
+  background-image: url("../pics/ромашка цветы.PNG");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+.first17 {
+  background-image: url("../pics/лепестки роз.jpg");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+.first18 {
+  background-image: url("../pics/бутоны роз.jpg");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+.first19 {
+  background-image: url("../pics/зверобой.png");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+.first20 {
+  background-image: url("../pics/лилия лепестки.jpg");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+.first21 {
+  background-image: url("../pics/цедра апельсина.jpg");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+.first22 {
+  background-image: url("../pics/мальва цветки крупный помол.jpg");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+.first23 {
+  background-image: url("../pics/душица.jpg");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+.first24 {
+  background-image: url("../pics/саган дайля.jpg");
+  background-repeat: no-repeat;
+  width: 400px;
+  height: 400px;
+  background-size: 100% 100%;
+  margin-top: 25px;
+  margin-bottom: 25px; }
+
+.footer {
+  width: 100%;
+  height: 236px;
+  background-image: linear-gradient(to top, rgba(55, 184, 44, 0.4), transparent); }
+
+.f, .f2 {
+  margin-top: 100px;
+  margin-left: 300px;
+  margin-bottom: 0;
+  text-align: left;
+  width: 75px; }
+
+.f2 {
+  margin-left: 50px; }
+
+.f3 {
+  margin-left: 275px;
+  text-align: left; }
+
+.f4 {
+  text-align: left; }
+
+@media screen and (max-width: 900px) {
+  .f, .f3 {
+    margin-left: 50px; } }
+@media screen and (max-width: 660px) {
+  .f, .f3 {
+    margin-left: 10px;
+    width: 150px; }
+
+  .f4 {
+    margin-left: 80px; } }
+
+/*# sourceMappingURL=dop.css.map */
