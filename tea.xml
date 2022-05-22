@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tea.xsl"?>
+<collection>
+<tea>
+    <color>Чёрный</color>
+    <type>Чай</type>
+    <name>Крупнолистовой Шу-пуэр из провинции Юннань</name>
+</tea>
+<tea>
+    <color>Чёрный</color>
+    <type>Чай</type>
+    <name>Лю Ань Хэй Ча</name>
+</tea>
+<tea>
+    <color>Чёрный</color>
+    <type>Чай</type>
+    <name>Пуэр Биндао Гушу</name>
+</tea>
+<tea>
+    <color>Жёлтый</color>
+    <type>Чай</type>
+    <name>Хо Шань Хуан Я</name>
+</tea>
+<tea>
+    <color>Жёлтый</color>
+    <type>Чай</type>
+    <name>Мэндин Хуан Я</name>
+</tea>
+<tea>
+    <color>Жёлтый</color>
+    <type>Чай</type>
+    <name>Цзюнь Шань Инь Чжень</name>
+</tea>
+<tea>
+    <color>Белый</color>
+    <type>Чай</type>
+    <name>Бай Му Дань</name>
+</tea>
+<tea>
+    <color>Белый</color>
+    <type>Чай</type>
+    <name>Шоу Мэй</name>
+</tea>
+    <tea>
+    <color>Белый</color>
+    <type>Чай</type>
+    <name>Бай Хао Инь Чжень</name>
+</tea>
+<tea>
+    <color>Красный</color>
+    <type>Чай</type>
+    <name>Цейлон OP</name>
+</tea>
+<tea>
+    <color>Красный</color>
+    <type>Чай</type>
+    <name>Цзин Хао Дянь Хун</name>
+</tea>
+<tea>
+    <color>Красный</color>
+    <type>Чай</type>
+    <name>Ассам TGFOP</name>
+</tea>
+<tea>
+    <color>Зелёный</color>
+    <type>Чай</type>
+    <name>Лун Цзин</name>
+</tea>
+<tea>
+    <color>Зелёный</color>
+    <type>Чай</type>
+    <name>Юньнань Люй Ча</name>
+</tea>
+<tea>
+    <color>Зелёный</color>
+    <type>Чай</type>
+    <name>Хуан Шань Маофен</name>
+</tea>
+<tea>
+    <color>-</color>
+    <type>Добавка</type>
+    <name>Рябина чёрная(Арония)</name>
+</tea>
+<tea>
+    <color>-</color>
+    <type>Добавка</type>
+    <name>Каркадэ королевский</name>
+</tea>
+<tea>
+    <color>-</color>
+    <type>Добавка</type>
+    <name>Каркадэ рубленый</name>
+</tea>
+<tea>
+    <color>-</color>
+    <type>Добавка</type>
+    <name>Мята мелкий лист</name>
+</tea>
+<tea>
+    <color>-</color>
+    <type>Добавка</type>
+    <name>Шиповник измельчённый</name>
+</tea>
+<tea>
+    <color>-</color>
+    <type>Добавка</type>
+    <name>Рябина красноплодная</name>
+</tea>
+<tea>
+    <color>-</color>
+    <type>Добавка</type>
+    <name>Имбирь дробленый</name>
+</tea>
+<tea>
+    <color>-</color>
+    <type>Добавка</type>
+    <name>Жасмин, цветы</name>
+</tea>
+<tea>
+    <color>-</color>
+    <type>Добавка</type>
+    <name>Лаванда</name>
+</tea>
+<tea>
+    <color>-</color>
+    <type>Добавка</type>
+    <name>Лист гинкго</name>
+</tea>
+<tea>
+    <color>-</color>
+    <type>Добавка</type>
+    <name>Хризантема, цветы, цзюй хуа</name>
+</tea>
+<tea>
+    <color>-</color>
+    <type>Добавка</type>
+    <name>Сафлора лепестки</name>
+</tea>
+<tea>
+    <color>-</color>
+    <type>Добавка</type>
+    <name>Календула лепестки</name>
+</tea>
+<tea>
+    <color>-</color>
+    <type>Добавка</type>
+    <name>Липа, резаный лист</name>
+</tea>
+<tea>
+    <color>-</color>
+    <type>Добавка</type>
+    <name>Клевер</name>
+</tea>
+<tea>
+    <color>-</color>
+    <type>Добавка</type>
+    <name>Ромашка, цветы</name>
+</tea>
+<tea>
+    <color>-</color>
+    <type>Добавка</type>
+    <name>Роза, лепестки</name>
+</tea>
+<tea>
+    <color>-</color>
+    <type>Добавка</type>
+    <name>Бутоны роз</name>
+</tea>
+<tea>
+    <color>-</color>
+    <type>Добавка</type>
+    <name>Зверобой</name>
+</tea>
+<tea>
+    <color>-</color>
+    <type>Добавка</type>
+    <name>Лилия, лепестки</name>
+</tea>
+<tea>
+    <color>-</color>
+    <type>Добавка</type>
+    <name>Цедра апельсина</name>
+</tea>
+<tea>
+    <color>-</color>
+    <type>Добавка</type>
+    <name>Мальва цветки крупный помол</name>
+</tea>
+<tea>
+    <color>-</color>
+    <type>Добавка</type>
+    <name>Душица</name>
+</tea>
+<tea>
+    <color>-</color>
+    <type>Добавка</type>
+    <name>Саган дайля</name>
+</tea>
+</collection>
